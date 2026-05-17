@@ -13,7 +13,7 @@ app.use(express.json());
 app.use(cors({
     origin: [
         "http://localhost:5173",
-        "https://chat-socket-io-frontend-xi.vercel.app/"
+        "https://chat-socket-io-frontend-flj0m0bdd-raihan-k-rasilys-projects.vercel.app"
     ],
     credentials: true
 }));
